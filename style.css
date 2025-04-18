@@ -2,21 +2,29 @@
     color:rgb(208, 119, 132);
     position: relative;
     font-size: 80px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
 .subtitle{
     color: rgb(190, 119, 190);
     font-size: 55px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
 
 .subsubtitle{
     font-size: 25px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
 }
 
 .paises{
     font-size: 25px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.paises1:hover{
-    background-position: 0px 80px;
+.paises1{
+    font-size: 25px;
+    color: rgb(190, 119, 190);
 }
