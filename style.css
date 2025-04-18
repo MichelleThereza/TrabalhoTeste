@@ -1,0 +1,22 @@
+.title{
+    color:rgb(208, 119, 132);
+    position: relative;
+    font-size: 80px;
+}
+
+.subtitle{
+    color: rgb(190, 119, 190);
+    font-size: 55px;
+}
+
+.subsubtitle{
+    font-size: 25px;
+}
+
+.paises{
+    font-size: 25px;
+}
+
+.paises1:hover{
+    background-position: 0px 80px;
+}
